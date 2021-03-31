@@ -1,0 +1,56 @@
+
+  {
+    "results" : [
+        {
+          "id" : 0,
+          "tag": "Founders",
+          "title": "2019 Real Estate Venture Investment Report",
+          "publish_date": "August 2020",
+          "short_description": "Real Estate witnessed declines in deal and funding activity from 2018 to 2019. The Real Estate industry saw sizable investment activity over the last 5 years, a total of 16 investment deals from 2015 to 2019. Excluding investments that took place in 2020, 2018 saw the highest total funding raised by MENA-based Real Estate startups of $123M, mainly attributable to Propertyfinder's $120M Series C fund-raise. The United Arab Emirates accounts for the lion's share in Real Estate funding, accounting for more than 90% of total funding raised since 2015.",
+          "image": "https://d2p9i44hnkrmkx.cloudfront.net/files/files/2482020/3053185628951-image.png"
+        },
+        {
+          "id" : 1,
+          "tag": "Founders",
+          "title": "2021 MENA Industry Venture Report",
+          "publish_date": "February 2021",
+          "short_description": "Over $1BN invested in MENA’s startup ecosystem in 2020 across 496 deals. The report identifies trends in capital allocation in these industries across MENA countries, startup maturity stages and across various business types. It also deep dives into the top investment rounds of the top 7 industries in MENA, as well as into the 5-year evolution of each sector. The appendix of the report gives details on deals and funding across all industries in the region that happened in 2020.Since 2016, MENA-based technology startups have been growing both in number and size. With increased funding, government support, and international interest, the region’s once-upon-a-time nascent startup ecosystem showed the signs of maturity. In 2020, MENA VC investment data has revealed gradual diversification of the industries involved in digital transformation, as well as prioritization of certain sectors due to the COVID-19 pandemic. The chart below shows a comparison between the number of deals in 2019 to 2020 for the top 7 performing industries, displaying the effect of the pandemic on investment activity in the MENA region’s startup ecosystem.",
+          "image": "https://d2p9i44hnkrmkx.cloudfront.net/files/files/2712021/8390251571161-Industry_Report_800x600%20copy.png"
+        },
+        {
+          "id" : 2,
+          "tag": "Venture Capital (VC)",
+          "title": "2019 Digitainment Venture Investment Report",
+          "publish_date": "September 2020",
+          "short_description": "Digitainment witnessed declines in deal and funding activity from 2018 to 2019. The Digitainment Industry saw a number of sizable investments over the last 5 years, a total of $235M invested across 98 deals from 2015 to 2019. 2017 saw the highest total funding raised by MENA-based Digitainment startups of $115M, mainly attributable to the Dubai-based Starzplay Arabia's $90M Series C fundraise. The Untied Arab Emirates accounted for the lion's share in Digitainment's funding and deal activity over the last 5 years.",
+          "image": "https://d2p9i44hnkrmkx.cloudfront.net/files/files/2392020/6702940680061-Digitainment02.png"
+        },
+        {
+          "id" : 3,
+          "tag": "Fintech",
+          "title": "Fintech Saudi Annual Report 2019 - 2020",
+          "publish_date": "August 2020",
+          "short_description": "A Growing Fintech Industry is Emerging in Saudi Arabia. Saudi Arabia's Fintech space is seeing constant growth due to the collective impact of various developments. The number of operating fintech startups has tripled in a year from 20 in 2019 to 60 this year, with over 100 fintech startups at the idea or pre-commercial stage. 12 funding rounds took place in Saudi-based Fintech startups 2020 YTD, with the total investment amount surpassing 2019 levels. According to Statista, the Saudi Fintech market is expected to reach transaction values of over USD 33 billion by 2023. In 2020 YTD, deal, and funding activity surpassed that of 2019 as a whole, with the majority of deal activity being Early Stage deals (84%), given that the Fintech space in Saudi Arabia's startup ecosystem is relatively nascent. Lean, a B2B platform that builds developer-friendly APIs to provide Fintechs with access to customer financial data and payment initiation capabilities, saw the highest funding amount of ($3.5M), (SAR 13.1M) in Saudi Arabia's Fintech space in 2020 YTD.",
+          "image": "https://d2p9i44hnkrmkx.cloudfront.net/files/research-image/3182020/2772325588951-FintechSaudiEnglish.jpg"
+        },
+        {
+          "id" : 4,
+          "tag": "Fintech",
+          "title": "2019 F&B MENA Venture Investment Report",
+          "publish_date": "July 2020",
+          "short_description": "F&B deals reached an all time high in 2019, total funding on the other hand witnessed a slight drop.The Food & Beverage industry saw increased investment activity over the last 5 years, jumping from just 10 deals in 2015 to 54 in 2019. Furthermore, 2016, with the highest total funding of $82M, mainly attributable to Wadi's $67M Series A fund raise, was a record year by total funding for the industry, before dropping to $43M in 2019. Saudi Arabia took the lead in the industry, acounting for 22% of deals and 44% of total funding raised by F&B startups. Saudi Arabia took the lead on both the deal and funding front, accounting for 22% of F&B investments and 44% of funding activity in 2019. The Kingdom's share of F&B investment deals in the MENA region has increased by 22% from 2016 to 2019. This indicates that Saudi Arabia has shown constant growth over the last few years, with investors' appetites to invest in the region steadily increasing. On the other hand, Egypt and the United Arab Emirates' deal shares have gradually dropped since 2015.",
+          "image": "https://d2p9i44hnkrmkx.cloudfront.net/files/files/2972020/3627098995951-Artboard%201.png"
+        },
+        {
+          "id" : 5,
+          "tag": "Fintech",
+          "title": "2019 MENA Education Venture Investment Report",
+          "publish_date": "June 2020",
+          "short_description": "EdTech funding and deals shoot up to an all-time high in 2019. One of the industries that has not been talked about too much, but has seen significant traction nonetheless, is education (or EdTech, as we love to call it in the venture capital space). Over the last few years, the number of deals have increased significantly, with 2019 seeing more deals (29) and total funding ($20M) than any previous year. Many of these startups are Early Stage, but we have also seen significant rounds in online platforms such as Saudi Arabia-based Noon Academy and Lamsa, among others. Aside from a record year for funding and number of deals, MENA-based education startups also attracted more investors than any previous year. As shown by the chart below, the majority of these investors came from the Middle East and North Africa, with just 14% of investors coming from abroad. This is lower than the MENA average, where 25% of all investors come from international markets. Hence, EdTech is still a regional game for many startups, with local investors – especially VCs and accelerators – warming up to the industry.",
+          "image": "https://d2p9i44hnkrmkx.cloudfront.net/files/research-image/1562020/1830610222951-edteech%20cover.png"
+        }
+
+
+
+  ]
+}

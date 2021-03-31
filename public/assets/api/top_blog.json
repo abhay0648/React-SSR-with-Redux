@@ -1,0 +1,38 @@
+
+  {
+    "results" : [
+        {
+          "id" : 0,
+          "tag": "Founders",
+          "title": "2019 Real Estate Venture Investment Report",
+          "publish_date": "August 2020",
+          "short_description": "Real Estate witnessed declines in deal and funding activity from 2018 to 2019. The Real Estate industry saw sizable investment activity over the last 5 years, a total of 16 investment deals from 2015 to 2019. Excluding investments that took place in 2020, 2018 saw the highest total funding raised by MENA-based Real Estate startups of $123M, mainly attributable to Propertyfinder's $120M Series C fund-raise. The United Arab Emirates accounts for the lion's share in Real Estate funding, accounting for more than 90% of total funding raised since 2015.",
+          "image": "https://d2p9i44hnkrmkx.cloudfront.net/files/files/2482020/3053185628951-image.png"
+        },
+        {
+          "id" : 2,
+          "tag": "Fintech",
+          "title": "Fintech Saudi Annual Report 2019 - 2020",
+          "publish_date": "August 2020",
+          "short_description": "A Growing Fintech Industry is Emerging in Saudi Arabia. Saudi Arabia's Fintech space is seeing constant growth due to the collective impact of various developments. The number of operating fintech startups has tripled in a year from 20 in 2019 to 60 this year, with over 100 fintech startups at the idea or pre-commercial stage. 12 funding rounds took place in Saudi-based Fintech startups 2020 YTD, with the total investment amount surpassing 2019 levels. According to Statista, the Saudi Fintech market is expected to reach transaction values of over USD 33 billion by 2023. In 2020 YTD, deal, and funding activity surpassed that of 2019 as a whole, with the majority of deal activity being Early Stage deals (84%), given that the Fintech space in Saudi Arabia's startup ecosystem is relatively nascent. Lean, a B2B platform that builds developer-friendly APIs to provide Fintechs with access to customer financial data and payment initiation capabilities, saw the highest funding amount of ($3.5M), (SAR 13.1M) in Saudi Arabia's Fintech space in 2020 YTD.",
+          "image": "https://d2p9i44hnkrmkx.cloudfront.net/files/research-image/3182020/2772325588951-FintechSaudiEnglish.jpg"
+        },
+        {
+          "id" : 3,
+          "tag": "Founders",
+          "title": "State of the Nation - SMEs in MENA 2019",
+          "publish_date": "November 2019",
+          "short_description": "Our friends at Beehive, MENA’s first regulated peer-to-peer lending platform, have released an insightful new report revealing the state of MENA’s SME ecosystem. The report is based on quantitative and qualitative SME research, including a survey of 175 SME owners and senior management and a roundtable of 13 prominent SME founders / CEOs. The report focused on key areas that impact SMEs such as talent acquisition, innovation and growth factors. The survey results showed positive indicators such as SME appetite for market expansion and the opportunity for women in business. Craig Moore, Beehive CEO commented: “We’re delighted to be celebrating five years of operation in the region and very much see Beehive as an SME for SMEs. During our five years we have amassed a significant amount of data which gives us an invaluable insight into the SMEs landscape. This report digs deeper to assess their business challenges and opportunities as well as their attitudes and opinions as SME owners and senior management.",
+          "image": "https://d2p9i44hnkrmkx.cloudfront.net/files/research-image/22102019/8813665544751-Screenshot%202019-11-28%20at%2013.09.10.png"
+        },
+        {
+          "id" : 4,
+          "tag": "Fintech",
+          "title": "2019 F&B MENA Venture Investment Report",
+          "publish_date": "July 2020",
+          "short_description": "F&B deals reached an all time high in 2019, total funding on the other hand witnessed a slight drop.The Food & Beverage industry saw increased investment activity over the last 5 years, jumping from just 10 deals in 2015 to 54 in 2019. Furthermore, 2016, with the highest total funding of $82M, mainly attributable to Wadi's $67M Series A fund raise, was a record year by total funding for the industry, before dropping to $43M in 2019. Saudi Arabia took the lead in the industry, acounting for 22% of deals and 44% of total funding raised by F&B startups. Saudi Arabia took the lead on both the deal and funding front, accounting for 22% of F&B investments and 44% of funding activity in 2019. The Kingdom's share of F&B investment deals in the MENA region has increased by 22% from 2016 to 2019. This indicates that Saudi Arabia has shown constant growth over the last few years, with investors' appetites to invest in the region steadily increasing. On the other hand, Egypt and the United Arab Emirates' deal shares have gradually dropped since 2015.",
+          "image": "https://d2p9i44hnkrmkx.cloudfront.net/files/files/2972020/3627098995951-Artboard%201.png"
+        }
+
+  ]
+}

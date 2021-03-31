@@ -1,0 +1,38 @@
+
+  {
+    "results" : [
+        {
+          "id" : 0,
+          "tag": "Founders",
+          "title": "H1 2020 MENA Startup & VC Sentiment Report",
+          "publish_date": "September 2017",
+          "short_description": "For a deeper insight into the COVID-19 impact on MENA startup ecosystem, MAGNiTT joined forces with leading international business school INSEAD to launch the first startup and VC sentiment survey in early June 2020. The report acts as a tool for policy makers to shape initiatives in this time of need for startups, by providing data-driven, objective insights into the views and thoughts of both startups and investors in the MENA region. This is the first report in MENA that specifically looks at investors sentiment as well, with many recent reports focusing specifically on startup sentiment. Interestingly, the survey reveals that investors are more optimistic about COVID-19's impact than startups. When ranking their concern about the impact of COVID-19 on MENA's (portfolio) startups, with 1 signifying Not worried at all and 5 signifying Very worried, investors rank an average of 3.0, while startups rank an average of 3.5. Hence, startups are significantly more worried about the impact than invetors in the MENA region",
+          "image": "https://d2p9i44hnkrmkx.cloudfront.net/files/research-image/2862020/8568713433951-MAGNiTT_INSEAD_Report_Launch_Post.png"
+        },
+        {
+          "id" : 1,
+          "tag": "Founders",
+          "title": "State of the Nation - SMEs in MENA 2019",
+          "publish_date": "November 2019",
+          "short_description": "Our friends at Beehive, MENA’s first regulated peer-to-peer lending platform, have released an insightful new report revealing the state of MENA’s SME ecosystem. The report is based on quantitative and qualitative SME research, including a survey of 175 SME owners and senior management and a roundtable of 13 prominent SME founders / CEOs. The report focused on key areas that impact SMEs such as talent acquisition, innovation and growth factors. The survey results showed positive indicators such as SME appetite for market expansion and the opportunity for women in business. Craig Moore, Beehive CEO commented: “We’re delighted to be celebrating five years of operation in the region and very much see Beehive as an SME for SMEs. During our five years we have amassed a significant amount of data which gives us an invaluable insight into the SMEs landscape. This report digs deeper to assess their business challenges and opportunities as well as their attitudes and opinions as SME owners and senior management.",
+          "image": "https://d2p9i44hnkrmkx.cloudfront.net/files/research-image/22102019/8813665544751-Screenshot%202019-11-28%20at%2013.09.10.png"
+        },
+        {
+          "id" : 2,
+          "tag": "Venture Capital (VC)",
+          "title": "H1 2020 MENA Startup & VC Sentiment Report",
+          "publish_date": "June 2020",
+          "short_description": "Investors are less woried about COVID-19's impact than startups, survey reveals. For a deeper insight into the COVID-19 impact on MENA startup ecosystem, MAGNiTT joined forces with leading international business school INSEAD to launch the first startup and VC sentiment survey in early June 2020. The report acts as a tool for policy makers to shape initiatives in this time of need for startups, by providing data-driven, objective insights into the views and thoughts of both startups and investors in the MENA region.This is the first report in MENA that specifically looks at investors sentiment as well, with many recent reports focusing specifically on startup sentiment. Interestingly, the survey reveals that investors are more optimistic about COVID-19's impact than startups. When ranking their concern about the impact of COVID-19 on MENA's (portfolio) startups, with 1 signifying Not worried at all and 5 signifying Very worried, investors rank an average of 3.0, while startups rank an average of 3.5. Hence, startups are significantly more worried about the impact than invetors in the MENA region. In general, investors and startups are moderately to significantly worried about the impact, with the majority thinking that the healthcare crisis will lead to a recession. However, startups are much more likely than investors – 24% compared to just 2% – to think that it will lead to a depression. Nonetheless, the majority of startups and investors expect the crisis to be over by Q4 2020 or Q1 2021, with just 6% of startups and 3% of investors expecting that it will last beyond 2021.",
+          "image": "https://d2p9i44hnkrmkx.cloudfront.net/files/research-image/2862020/8568713433951-MAGNiTT_INSEAD_Report_Launch_Post.png"
+        },
+        {
+          "id" : 3,
+          "tag": "Founders",
+          "title": "State of MENA Startups 2019",
+          "publish_date": "October 2019",
+          "short_description": "We are excited to have worked together with 500 Startups and their MENA-based portfolio companies to launch the first-of-its-kind State of Startups report for the Middle East and North Africa. We have surveyed 100+ MENA-based founders of the 500 Falcons portfolio to gather their thoughts, opinions, challenges and perceived opportunities of being an entrepreneur in the region. Each of these founders has received at least one round of venture investment. Through the data that was gathered, this report looks to shed light on entrepreneurial practices and opinions in the region, including the fundraising exercise, exit opportunities, operations, talent availability and more. Raising funds is not easy for any startup, which is evident from the responses to the survey. On average, it took 500 Startups’ MENA-based startups 7 months to close their funding round, during which most pitched to between 6 and 10 investors.79% of respondents believe that the power of the fundraising exercise has been with investors last year, making for a challenging fundraising process. Moreover, 57% of respondents believe they will exit their startups in the next 5 years, with 59% certain they will sell for a $100M valuation or higher.No matter your location, hiring talent for your startup is one of the largest challenges for any founder. Similar to revenue growth, 62% see hiring talent as a challenge that keeps them up at night, with 40% highlighting a lack of talent as the main concern. However, on average respondents are looking to hire roughly 16 people over the coming 12 months.From an operational perspective, 81% of founders optimise for the growth of their company, not profitability. Nonetheless, more than half of the respondents believe that they will be profitable within 3 years, with 15% indicating that they already are.This State of MENA Startups report looks to act as a basis for future analysis on what is quickly developing into a vibrant ecosystem – we hope that it will provide insights to further spark discussion, and welcome any views, comments or feedback that you might have on how to improve for future iterations.",
+          "image": "https://d2p9i44hnkrmkx.cloudfront.net/files/files/3082019/3421600389651-research%20banner.png"
+        }
+
+  ]
+}
